@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+###Try it yourself (https://employeedirectory111.herokuapp.com/).
 
-## Available Scripts
+## Available Scripts for local running
 
 In the project directory, you can run:
 
